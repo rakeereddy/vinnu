@@ -1,1 +1,0 @@
-this is for to test git reset commond
